@@ -1,0 +1,13 @@
+export const routeHome = '/';
+export const routeLandingPage = '/welcome';
+export const routeWallet = '/wallet';
+export const routeMarket = '/market';
+export const routeProduct = '/market/:id';
+export const routeProfile = '/profile/:id';
+export const routeOrders = '/orders/:id';
+export const routeSettings = '/settings';
+export const routeStyleGuide = '/style-guide';
+export const routeAuthentication = '/authentication';
+export const routeShoppingCart = '/shopping-cart';
+export const routeCheckout = '/checkout';
+export const routeAdmin = '/admin';
